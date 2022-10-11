@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/ddd555/posts.svg)](http://qiita.com/ddd555)
+![](https://komarev.com/ghpvc/?username=アカウント名)
+
 
 <!--
 **daiki510/daiki510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
