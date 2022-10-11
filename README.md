@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/ddd555/posts.svg)](http://qiita.com/ddd555)
-![](https://komarev.com/ghpvc/?username=アカウント名)
+![](https://komarev.com/ghpvc/?username=daiki510)
 
 
 <!--
