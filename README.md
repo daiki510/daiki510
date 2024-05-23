@@ -4,8 +4,14 @@
 
 <h3 align="left">Skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,graphql,express,jest,bun,npm,yarn)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,php,laravel,python)](https://skillicons.dev)
+## Programming Languages and Frameworks
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,graphql,express,jest,bun,ruby,rails,php,laravel,python)](https://skillicons.dev)
+
+## Cloud and Infrastructure
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,terraform,apollo)](https://skillicons.dev)
+
+## Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,dynamodb,sqlite,redis)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,vscode,notion,apple)](https://skillicons.dev)
+
+## Tools and Platforms
+[![My Skills](https://skillicons.dev/icons?i=npm,yarn,git,github,githubactions,vscode,notion,apple)](https://skillicons.dev)
