@@ -6,9 +6,13 @@
 
 ### 💻 Skills
 
-#### Programming Languages and Frameworks
+#### Programming Languages and Frameworks（Javascript）
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,nextjs,react,graphql,express,jest,bun,ruby,rails,php,laravel,python&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,nextjs,react,graphql,express,jest,bun&theme=light)](https://skillicons.dev)
+
+#### Programming Languages and Frameworks（Other...）
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,php,laravel,python&theme=light)](https://skillicons.dev)
 
 #### Cloud and Infrastructure
 
