@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!-- Qiita Badge --> <!-- Vier Counter -->
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/ddd555/posts.svg)](http://qiita.com/ddd555)  ![](https://komarev.com/ghpvc/?username=daiki510)
+![](https://komarev.com/ghpvc/?username=daiki510)
 
 ### Skills
 
@@ -15,3 +15,6 @@
 
 #### Tools and Platforms
 [![My Skills](https://skillicons.dev/icons?i=npm,yarn,git,github,githubactions,vscode,notion,apple)](https://skillicons.dev)
+
+## Tech Blog
+https://go-tech.blog/
