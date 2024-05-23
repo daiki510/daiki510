@@ -2,6 +2,8 @@
 <!-- Qiita Badge --> <!-- Vier Counter -->
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/ddd555/posts.svg)](http://qiita.com/ddd555)  ![](https://komarev.com/ghpvc/?username=daiki510)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <!-- Skill Badge -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
