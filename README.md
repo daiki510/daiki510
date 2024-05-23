@@ -12,19 +12,19 @@
 
 #### Programming Languages and Frameworks（Other...）
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,php,laravel,python&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,php,laravel,python,dart,flutter&theme=light)](https://skillicons.dev)
 
 #### Cloud and Infrastructure
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,terraform,apollo,vercel&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,terraform,apollo,vercel,supabase&theme=light)](https://skillicons.dev)
 
 #### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,dynamodb,sqlite,redis&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,dynamodb,mongodb,sqlite,redis&theme=light)](https://skillicons.dev)
 
 #### Tools and Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=npm,yarn,git,github,githubactions,vscode,notion,apple&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,yarn,vite,git,github,githubactions,vscode,notion,apple,linux&theme=light)](https://skillicons.dev)
 
 ## ⚡️ Stats
 
