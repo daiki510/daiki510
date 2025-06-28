@@ -32,7 +32,3 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=daiki510&theme=onedark&row=1&column=6)](https://github.com/daiki510/github-profile-trophy)
 
-## 📝 Tech Blog
-
-[![go-tech.blog](blog-image.png)](https://go-tech.blog)
-🔗 https://go-tech.blog/
